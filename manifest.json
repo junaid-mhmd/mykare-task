@@ -1,0 +1,36 @@
+{
+	"name": "Mykare",
+	"short_name": "Mykare",
+	"description": "Mykare task",
+	"screenshots": [
+		{
+			"src": "web.png",
+			"sizes": "1920x1080",
+			"type": "image/png",
+			"form_factor": "wide"
+		},
+		{
+			"src": "mobile.png",
+			"sizes": "1080x1920",
+			"type": "image/png"
+		}
+	],
+	"icons": [
+		{
+			"src": "icon-144x144.png",
+			"sizes": "144x144",
+			"type": "image/png",
+			"purpose": "any"
+		},
+		{
+			"src": "icon-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png",
+			"purpose": "any"
+		}
+	],
+	"start_url": "/",
+	"display": "standalone",
+	"theme_color": "#da532c",
+	"background_color": "#ffffff"
+}
